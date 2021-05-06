@@ -5,7 +5,7 @@
     "capital": "Algiers",
     "region": "Africa",
     "currency": "DZD",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/dza.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/dza.png",
     "language": "Arabic"
   },
   {
@@ -14,7 +14,7 @@
     "capital": "Andorra Vella",
     "region": "Europe",
     "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/and.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/and.png",
     "language": "Catalan"
   },
   {
@@ -23,7 +23,7 @@
     "capital": "Antartica",
     "region": "Polar",
     "currency": "AUD",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/ata.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/ata.png",
     "language": "English"
   },
   {
@@ -32,7 +32,7 @@
     "capital": "Baku",
     "region": "Asia",
     "currency": "AZN",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/aze.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/aze.png",
     "language": "Azerbaijani"
   },
   {
@@ -41,7 +41,7 @@
     "capital": "Brussels",
     "region": "Europe",
     "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/bel.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/bel.png",
     "language": "French"
   },
   {
@@ -50,7 +50,7 @@
     "capital": "Brasilia",
     "region": "Americas",
     "currency": "BRL",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/bra.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/bra.png",
     "language": "Portuguese"
   },
   {
@@ -59,7 +59,7 @@
     "capital": "Phnom Penh",
     "region": "Asia",
     "currency": "KHR",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/khm.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/khm.png",
     "language": "Khmer"
   },
   {
@@ -68,7 +68,7 @@
     "capital": "Ottawa",
     "region": "Americas",
     "currency": "CAD",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/can.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/can.png",
     "language": "English"
   },
   {
@@ -77,7 +77,7 @@
     "capital": "Havana",
     "region": "Americas",
     "currency": "CUC",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/cub.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/cub.png",
     "language": "Spanish"
   },
   {
@@ -86,7 +86,7 @@
     "capital": "Copenhagen",
     "region": "Europe",
     "currency": "DKK",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/dnk.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/dnk.png",
     "language": "Danish"
   },
   {
@@ -95,7 +95,7 @@
     "capital": "Tallinn",
     "region": "Europe",
     "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/est.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/est.png",
     "language": "Estonian"
   },
   {
@@ -104,7 +104,7 @@
     "capital": "Helsinki",
     "region": "Europe",
     "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/fin.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/fin.png",
     "language": "Finnish"
   },
   {
@@ -113,7 +113,7 @@
     "capital": "Athens",
     "region": "Europe",
     "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/grc.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/grc.png",
     "language": "Greek"
   },
   {
@@ -122,7 +122,7 @@
     "capital": "Port-au-Prince",
     "region": "Americas",
     "currency": "HTG",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/hti.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/hti.png",
     "language": "Haitian"
   },
   {
@@ -131,7 +131,7 @@
     "capital": "Jakarta",
     "region": "Asia",
     "currency": "IDR",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/idn.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/idn.png",
     "language": "Indonesian"
   },
   {
@@ -140,7 +140,7 @@
     "capital": "Dublin",
     "region": "Europe",
     "currency": "EUR",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/irl.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/irl.png",
     "language": "English"
   },
   {
@@ -149,7 +149,7 @@
     "capital": "Tokyo",
     "region": "Asia",
     "currency": "JPY",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/jpn.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/jpn.png",
     "language": "Japanese"
   },
   {
@@ -158,7 +158,7 @@
     "capital": "Moscow",
     "region": "Europe",
     "currency": "RUB",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/rus.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/rus.png",
     "language": "Russian"
   },
   {
@@ -167,7 +167,7 @@
     "capital": "Ankara",
     "region": "Asia",
     "currency": "TRY",
-    "flag": "https://raw.githubusercontent.com/mobdevufuk/CountriesDataSet/main/tur.png",
+    "flag": "https://raw.githubusercontent.com/uargun/CountriesDataSet/main/tur.png",
     "language": "Turkish"
   }
 ]
